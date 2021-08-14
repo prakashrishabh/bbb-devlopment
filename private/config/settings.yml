@@ -175,7 +175,7 @@ public:
     enableNetworkMonitoring: false
     packetLostThreshold: 10
   kurento:
-    wsUrl: wss://10.0.2.15/bbb-webrtc-sfu
+    wsUrl: wss://vc.realcoderz.com/bbb-webrtc-sfu
 
     # Valid for video-provider. Time (ms) before its WS connection times out
     # and tries to reconnect.
